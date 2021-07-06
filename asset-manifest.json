@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://abraham891.github.io/csb-7jixv/static/css/main.fdb22c8b.chunk.css",
+    "main.js": "https://abraham891.github.io/csb-7jixv/static/js/main.6050c2ee.chunk.js",
+    "main.js.map": "https://abraham891.github.io/csb-7jixv/static/js/main.6050c2ee.chunk.js.map",
+    "runtime-main.js": "https://abraham891.github.io/csb-7jixv/static/js/runtime-main.2ad05ee7.js",
+    "runtime-main.js.map": "https://abraham891.github.io/csb-7jixv/static/js/runtime-main.2ad05ee7.js.map",
+    "static/css/2.af34670d.chunk.css": "https://abraham891.github.io/csb-7jixv/static/css/2.af34670d.chunk.css",
+    "static/js/2.d60c1aa1.chunk.js": "https://abraham891.github.io/csb-7jixv/static/js/2.d60c1aa1.chunk.js",
+    "static/js/2.d60c1aa1.chunk.js.map": "https://abraham891.github.io/csb-7jixv/static/js/2.d60c1aa1.chunk.js.map",
+    "index.html": "https://abraham891.github.io/csb-7jixv/index.html",
+    "static/css/2.af34670d.chunk.css.map": "https://abraham891.github.io/csb-7jixv/static/css/2.af34670d.chunk.css.map",
+    "static/css/main.fdb22c8b.chunk.css.map": "https://abraham891.github.io/csb-7jixv/static/css/main.fdb22c8b.chunk.css.map",
+    "static/js/2.d60c1aa1.chunk.js.LICENSE.txt": "https://abraham891.github.io/csb-7jixv/static/js/2.d60c1aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ad05ee7.js",
+    "static/css/2.af34670d.chunk.css",
+    "static/js/2.d60c1aa1.chunk.js",
+    "static/css/main.fdb22c8b.chunk.css",
+    "static/js/main.6050c2ee.chunk.js"
+  ]
+}
